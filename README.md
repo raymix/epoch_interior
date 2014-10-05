@@ -1,4 +1,4 @@
 epoch_interior
 ==============
 
-dayz epoch interior wip
+no credits required, name/rename/add/remove everything as you please
